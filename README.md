@@ -39,14 +39,14 @@ We diagnose the artist's market position through Typology and visualize the hidd
 - **SNA Insight**: High centrality in "Performance" and "Global Tour" related keywords.
 - **Strategic Proposal**: Focus on maintaining global concert scale while reinforcing digital engagement.
 
-![BLACKPINK Strategy Audit](./images/BLACKPINK.jpg)
+![BLACKPINK Strategy Audit](./images/BLACKPINK.png)
 
 ### ⚪ EXO: Strong Fandom Core
 - **Typology**: A2 / S3 / C3 (Balanced High performance)
 - **SNA Insight**: Strong clusters around "Fandom Loyalty" and "Discography."
 - **Strategic Proposal**: Strategy to leverage established fandom power for sustainable activities.
 
-![EXO Strategy Audit](./images/EXO.jpg)
+![EXO Strategy Audit](./images/EXO.png)
 
 ## 5. Tech Stack
 - Programming: Python (Google Colab)
