@@ -35,14 +35,14 @@ We diagnose the artist's market position through Typology and visualize the hidd
 
 [result examples]
 
-### 🖤 BLACKPINK: Global Performance Leader
+### BLACKPINK: Global Performance Leader
 - **Typology**: A2 / S3 / C4 (High performance in Digital & Concerts)
 - **SNA Insight**: High centrality in "Performance" and "Global Tour" related keywords.
 - **Strategic Proposal**: Focus on maintaining global concert scale while reinforcing digital engagement.
 
 ![BLACKPINK Strategy Audit](./images/BLACKPINK.png)
 
-### ⚪ EXO: Strong Fandom Core
+### EXO: Strong Fandom Core
 - **Typology**: A2 / S3 / C3 (Balanced High performance)
 - **SNA Insight**: Strong clusters around "Fandom Loyalty" and "Discography."
 - **Strategic Proposal**: Strategy to leverage established fandom power for sustainable activities.
