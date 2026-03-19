@@ -5,11 +5,11 @@
 ## 1. Project Overview
 This project evaluates and proposes data-driven strategies for K-pop artists by integrating Quantitative Activity Data (Typology) and Qualitative Fandom Sentiment (SNA).
 
-The Problem
+### The Problem
 - Gap in Insights: Discrepancy between commercial success (Album/Digital sales) and actual fandom needs.
 - Methodological Limit: Absence of tools to quantify and visualize complex fandom interactions and core discourse.
 
-Our Solution
+### Our Solution
 We diagnose the artist's market position through Typology and visualize the hidden structures of fan needs through Social Network Analysis (SNA) to align artist activities with customer (fan) expectations.
 
 ## 2. Project Pipeline & Methodology
