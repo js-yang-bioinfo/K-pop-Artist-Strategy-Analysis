@@ -15,8 +15,9 @@ We diagnose the artist's market position through Typology and visualize the hidd
 ## 2. Project Pipeline & Methodology
 
 ### Phase 1: Artist Typology & Performance Analysis (My Core Part)
-- Data: Cumulative Physical Album Shipments (2018-2023) & Digital Streaming/Download Rankings (2018-2024).
-- Method: Developed a strategic matrix to categorize artists based on the ratio of physical (Fandom) to digital (Public) performance.
+- Data: Cumulative Physical Album Sales (2018-2023) & Digital Streaming/Download Rankings (2018-2024).
+- Method: Developed a strategic matrix to categorize artists based on the skewness of Music Chart and relative ratio of physical albums by comparing to other artists.
+- 
 ### Phase 2: Fandom Discourse Mapping via SNA (Team Part)
 - Data: YouTube Comments & Post titles from 'Theqoo' (Korean online community).
 - Method: Conducted Social Network Analysis (SNA) using UCINET 6.
